@@ -1,5 +1,3 @@
-# Blue-Green-Deployment
-
 
 Project: Blue-Green Deployment for Seamless Application Updates
 Objective:
