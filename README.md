@@ -1,5 +1,6 @@
 
 Project: Blue-Green Deployment for Seamless Application Updates
+
 Objective:
 The main objective of this project is to implement a Blue-Green deployment strategy to enable seamless application updates with zero downtime. This approach minimizes risk during updates and ensures that users experience no disruption during the deployment process.
 
